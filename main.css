@@ -44,8 +44,3 @@ li a {
     padding: 1px 15px;
     height: 100%;
 }
-section:after{
-    contain: "";
-    display: table;
-    clear: both;
-}
